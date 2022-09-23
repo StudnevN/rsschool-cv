@@ -10,7 +10,7 @@
 
 
 
-**Contact information:**
+### Contact information:
 
 
 * Phone: +375447123632
@@ -18,9 +18,7 @@
 * Telegram: @Chek8789
 * [LinkedIn](https://www.linkedin.com/in/nikita-s-515293226/)
 
-===
-
-**Briefly About Myself:**
+#### Briefly About Myself:
 
 I am a person with a great need to
 develop and grow professionally. For me
