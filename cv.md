@@ -6,15 +6,12 @@
 
 ### Contact information:
 
-
 * Phone: +375447123632
 * E-mail: studnev.nikita94@gmail.com
 * Telegram: @Chek8789
 * [LinkedIn](https://www.linkedin.com/in/nikita-s-515293226/)
 
----------------------------------------------------------------
-
-#### Briefly About Myself:
+### Briefly About Myself:
 
 I am a person with a great need to
 develop and grow professionally. For me
@@ -29,9 +26,7 @@ I’m interested in Web Development because this occupation provides endless pos
 besides there’s a huge amount of free high quality resources for self-education and a large community of developers.
 I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 
---------------------------------------------------------------------
-
-**Skills and Proficiency:**
+### Skills and Proficiency:
 
 * HTML5, CSS3
 * JavaScript Basics
@@ -48,12 +43,9 @@ Fiddler on iOS and Android.
 * Python. (Learning the basics. Creating a client-server
 application)
 
----------------------------------------
-**Code example:**
+### Code example:
 
------------------------------------------
-
-**Courses:**
+### Courses:
 
 * JavaScript Manual on learnjavascript.ru (in progress)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
@@ -70,9 +62,7 @@ July 2021 - August 2021
 Class "Basic Computer Science"
 April 2021 - June 2021
 
--------------------------------------------------------
-
-**Languages:**
+### Languages:
 
 * English - Intermediate/Upper-intermediate
 * Russian - Native
