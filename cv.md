@@ -42,6 +42,11 @@ Fiddler on iOS and Android.
 application)
 
 ### Code example:
+```
+function multiply(a, b){
+return a * b;
+}
+```
 
 ### Courses:
 
