@@ -4,11 +4,11 @@
 
 # Nikita Studnev
 
-====
+
 
 ## Junior Frontend Developer
 
-====
+
 
 **Contact information:**
 
@@ -16,9 +16,9 @@
 * Phone: +375447123632
 * E-mail: studnev.nikita94@gmail.com
 * Telegram: @Chek8789
-[LinkedIn](https://www.linkedin.com/in/nikita-s-515293226/)
+* [LinkedIn](https://www.linkedin.com/in/nikita-s-515293226/)
 
-====
+===
 
 **Briefly About Myself:**
 
