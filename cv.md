@@ -1,5 +1,3 @@
-[rsschool-cv]()
-
 # Nikita Studnev
 
 ## Junior Frontend Developer
